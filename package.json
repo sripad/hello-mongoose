@@ -7,7 +7,7 @@
       "node" : "0.8",
       "npm" : ">=1.1"
   },
-  "repository": "https://github.com/mongolab/hello-mongoose.git",
+  "repository": "git@github.com:sripad/hello-mongoose.git",
   "author": "Ben Wen",
   "license": "MIT",
   "dependencies": {
@@ -15,6 +15,6 @@
   },
   "changelog" : [{"0.0.0": "Initial release"},
 		 {"0.1.0": "Update to Mongoose 3.5.7; new MongoClient semantics"}],
-  "homepage" : "http://hello-mongoose.herokuapp.com"
+  "homepage" : "http://rocky-crag-6023.herokuapp.com"
 }
 
